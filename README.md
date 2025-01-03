@@ -1,5 +1,5 @@
-# aws_ray_cluster
+# aws-ray-cluster
 
-Deployment of Ray cluster on AWS
+Testing deployment of Ray cluster on AWS
 
 Includes training a Gaussian process via GPyTorch
